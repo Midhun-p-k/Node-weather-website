@@ -1,10 +1,3 @@
-// const { response } = require("express")
-
-// const { response } = require("express")
-
-console.log("client side javascript file...")
-
-
 
 const weatherForm = document.querySelector("form")
 const search = document.querySelector("input")
