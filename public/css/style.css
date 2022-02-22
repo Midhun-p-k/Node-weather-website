@@ -1,4 +1,4 @@
-body{
+body {
   color: #333333;
   font-family: Arial, Helvetica, sans-serif;
   max-width: 650px;
@@ -10,45 +10,44 @@ body{
   min-height: 100vh;
 }
 
-.main-content{
+.main-content {
   flex-grow: 1;
 }
-footer{
+footer {
   color: #888888;
   border-top: 1px solid #eeeeee;
   margin-top: 16px;
   padding: 16px 0;
 }
-header{
+header {
   margin-top: 16px;
   margin-bottom: 48px;
 }
-h1{
+h1 {
   font-size: 64px;
   margin-bottom: 16px;
 }
-header a{
+header a {
   color: #888888;
   margin-right: 16px;
   text-decoration: none;
 }
-.robot{
+.robot {
   width: 250px;
 }
-.hello{
+.hello {
   background-color: bisque;
 }
 
-input{
-     border: 1px solid #cccccc;
-     padding: 8px;
+input {
+  border: 1px solid #cccccc;
+  padding: 8px;
 }
 
-button{
+button {
   cursor: pointer;
   border: 1px solid #888888;
-  background:#888888;
+  background: #888888;
   color: white;
   padding: 8px;
-
 }
